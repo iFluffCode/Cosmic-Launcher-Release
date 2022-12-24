@@ -430,16 +430,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmo_voice:1.2.19@jar",
-          "name": "Plasmo Voice",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4839882,
-            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1056009788120641616/plasmovoice-forge-1.18-1.2.19.jar",
-            "MD5": "d4bfcdee6a455d67294d35e82ede201a"
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:0.4.0+1.16.5@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
