@@ -9,7 +9,7 @@
       "id": "MichiLand-1.16.5",
       "name": "MichiLand (Minecraft 1.16.5)",
       "description": "Servidor oficial de la comunidad Cosmicat",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/iFluffCode/Cosmic-Launcher-Release/main/Icon.png?token=GHSAT0AAAAAAB4V2N3NKL7H4SNQLD63YNNSY5GSRWA",
       "version": "1.0.0",
       "address": "michiland.holy.gg",
       "minecraftVersion": "1.16.5",
