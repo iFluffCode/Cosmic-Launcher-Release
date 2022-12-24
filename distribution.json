@@ -1,8 +1,5 @@
 {
   "version": "1.0.0",
-  "java": {
-    "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-    },
   "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
   "servers": [
     {
@@ -430,6 +427,16 @@
             "size": 357616,
             "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1056009787797676062/Pehkui-3.4.21.16.5-forge.jar",
             "MD5": "6db1bd381700c8b346214992d746ac90"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmo_voice:1.2.19@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4839882,
+            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1056009788120641616/plasmovoice-forge-1.18-1.2.19.jar",
+            "MD5": "d4bfcdee6a455d67294d35e82ede201a"
           }
         },
         {
