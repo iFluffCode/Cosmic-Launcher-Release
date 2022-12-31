@@ -407,17 +407,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
-          "name": "OptiFine",
-          "type": "File",
-          "artifact": {
-            "size": 5924305,
-            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1058540642998951987/OptiFine_1.16.5_HD_U_G7.jar",
-            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
-            "path": "mods/OptiFine_1.16.5_HD_U_G7.jar"
-          }
-        },
-        {
           "id": "virtuoel.pehkui:pehkui:3.4.2+1.16.5-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
