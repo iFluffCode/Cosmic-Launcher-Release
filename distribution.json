@@ -407,16 +407,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6046996,
-            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1056010957605847140/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          },
-          "required": {
-            "value": false
+            "size": 5924305,
+            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1058540642998951987/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           }
         },
         {
@@ -427,6 +424,16 @@
             "size": 357616,
             "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1056009787797676062/Pehkui-3.4.21.16.5-forge.jar",
             "MD5": "6db1bd381700c8b346214992d746ac90"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmo_voice:1.2.19@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4974313,
+            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1058540643313528942/plasmovoice-forge-1.16-1.2.19.jar",
+            "MD5": "e111cb48088fafd24c524ccd95e05ddf"
           }
         },
         {
