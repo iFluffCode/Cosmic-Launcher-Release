@@ -6,12 +6,12 @@
       "id": "MichiLand-1.16.5",
       "name": "MichiLand (Minecraft 1.16.5)",
       "description": "Servidor oficial de la comunidad Cosmicat",
-      "icon": "https://raw.githubusercontent.com/iFluffCode/Cosmic-Launcher-Release/main/Icon.png?token=GHSAT0AAAAAAB4V2N3NKL7H4SNQLD63YNNSY5GSRWA",
+      "icon": "https://raw.githubusercontent.com/iFluffCode/Cosmic-Launcher-Release/main/Icon.png",
       "version": "1.0.0",
       "address": "tx3.holy.gg:26492",
       "minecraftVersion": "1.16.5",
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.34",
@@ -447,6 +447,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G7:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G7",
+          "type": "Library",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://cdn.discordapp.com/attachments/1056009544662274148/1058540642998951987/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           }
         },
         {
